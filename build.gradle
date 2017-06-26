@@ -8,7 +8,7 @@ repositories {
 
 dependencies {
     compile 'de.gesellix:docker-client:2016-07-23T22-43-10'
-    compile group: 'org.asxasxcodehaus.groovy', name: 'groovy-all', version: '2.4.7'
+    /* compile group: 'org.asxasxcodehaus.groovy', name: 'groovy-all', version: '2.4.7' */
     compile group: 'org.spockframework', name: 'spock-core', version: '1.1-groovy-2.4-rc-2'
     compile group: 'org.postgresql', name: 'postgresql', version: '9.4.1209.jre7'
 }
